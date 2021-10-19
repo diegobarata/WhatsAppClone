@@ -1,4 +1,4 @@
-# WhatsApp Cloene
+# WhatsApp Clone
 
 Este é um projeto construido com o foco no aprendizado da biblioteca REACTJS.
 
